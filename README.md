@@ -1,2 +1,4 @@
 # js_Practise
-JS tinkerings
+
+
+Learning javascript
